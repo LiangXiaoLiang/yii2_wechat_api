@@ -5,3 +5,5 @@
 
     >= php5.4
     >= Yii2
+
+有问题请联系我：xiaoliang9981@163.com
